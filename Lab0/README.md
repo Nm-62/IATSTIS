@@ -11,6 +11,11 @@
 1. Скачать с официального сайта Rstudio установочный пакет
 ![image](https://github.com/user-attachments/assets/d5cc9416-b9b0-46c6-a724-5409d7cd0c33)
 
+![image](https://github.com/user-attachments/assets/be08703e-3370-4e8b-afa4-3990946114b5)
+
+
+![image](https://github.com/user-attachments/assets/32839819-2a79-4dfd-b85f-a101356489a3)
+
 ## Оценка результата
 ## Вывод
 
