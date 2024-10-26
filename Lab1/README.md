@@ -34,6 +34,8 @@ Numbers)
 
 2. Установить Rstudio IDE
 ![image](https://github.com/user-attachments/assets/09ee679e-430f-4304-8d6a-5b0b2848a4b9)
+![image](https://github.com/user-attachments/assets/90baf604-5a26-452f-9fe9-e638d426b732)
+
 3. Установить программный пакет swirl:
 через интерфейс Rstudio IDE
 или функцией R install.packages("swirl")
