@@ -29,6 +29,7 @@ Numbers)
 пропущенные значения (Missing Values)
 ## Шаги
 1. Установить интерпретатор R
+
 ![image](https://github.com/user-attachments/assets/5f7cb29c-60ce-40f5-99cb-75a13dfa48d9)
 2. Установить Rstudio IDE
 ![image](https://github.com/user-attachments/assets/09ee679e-430f-4304-8d6a-5b0b2848a4b9)
