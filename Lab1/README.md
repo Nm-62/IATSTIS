@@ -44,10 +44,12 @@ Numbers)
 
 ![image](https://github.com/user-attachments/assets/d522a48c-3a98-45f7-9b41-5c5fd7d38cc5)
 
-5. Запустить задание с помощью swirl::swirl()
-6. Выбрать из меню курсов 1. R Programming: The
+![image](https://github.com/user-attachments/assets/d5961280-d892-4b2a-b0ec-67d3c1f01f9d)
+
+4. Запустить задание с помощью swirl::swirl()
+5. Выбрать из меню курсов 1. R Programming: The
 basics of programming in R
-7. Запустить подкурсы и выполнить:
+6. Запустить подкурсы и выполнить:
 базовые структурные блоки (Basic Building
 Blocks)
 рабочие пространства и файлы (Workspace and
