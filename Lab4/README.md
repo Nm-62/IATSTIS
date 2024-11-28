@@ -27,5 +27,12 @@ Query
    
    ![image](https://github.com/user-attachments/assets/53d2fee2-73a2-419e-bb6f-a02194cc12c2)
 
+
+2. Подключить бакет как источник данных для Yandex
+Query
+
+   ![image](https://github.com/user-attachments/assets/05703b8c-5132-4d78-8dfb-897c7bced407)
+
+
 ## Оценка результата
 ## Вывод
