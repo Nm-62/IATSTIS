@@ -36,5 +36,7 @@ Query
 
    ![image](https://github.com/user-attachments/assets/a5a6ee13-dc5c-4d76-befa-4fa4be76462d)
 
+   
+
 ## Оценка результата
 ## Вывод
