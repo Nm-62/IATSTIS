@@ -22,6 +22,7 @@ Query
 4. Сделать выводы о проделанной работе.
 ## Шаги
 1. Проверить доступность данных в Yandex Object Storage
+     ![image](https://github.com/user-attachments/assets/0cbc3065-9685-43c6-983e-13ade7614f00)
 
    
    ![image](https://github.com/user-attachments/assets/53d2fee2-73a2-419e-bb6f-a02194cc12c2)
