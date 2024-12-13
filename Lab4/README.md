@@ -39,7 +39,8 @@ Query
 
 ![image](https://github.com/user-attachments/assets/8af3bc1a-246f-45b5-932b-e88c2e5bf023)
 
-   
+![image](https://github.com/user-attachments/assets/60a05045-98d0-451e-a7b0-fe79066cd989)
+ 
 
 ## Оценка результата
 ## Вывод
