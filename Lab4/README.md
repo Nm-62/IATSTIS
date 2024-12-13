@@ -46,6 +46,8 @@ Query
 
 ![image](https://github.com/user-attachments/assets/5b562a11-ca65-4dad-8de4-fa26d42ac154)
 
+![image](https://github.com/user-attachments/assets/7876df8b-cfe5-4eb0-85ae-a1fb2176457a)
+
 
 ## Оценка результата
 ## Вывод
