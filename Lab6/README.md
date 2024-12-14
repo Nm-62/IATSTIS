@@ -22,6 +22,9 @@
 4. Все построенные графики вывести в виде единого дашборда в Yandex DataLens.
 
 ## Шаги
+
+![image](https://github.com/user-attachments/assets/53b2cf92-b692-49b2-8d6c-0eaff843e4a7)
+
 ## Оценка результата
 ## Вывод
 
