@@ -27,6 +27,9 @@
 
 ![image](https://github.com/user-attachments/assets/b0a67ed6-7acb-42fd-8f7e-15ef6097a254)
 
+![image](https://github.com/user-attachments/assets/00f75b29-dde5-4fbd-aa40-a5efd18a53da)
+
+
 ## Оценка результата
 ## Вывод
 
