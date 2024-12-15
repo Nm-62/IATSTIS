@@ -25,26 +25,26 @@ dplyr – функции select(), filter(), mutate(), arrange(), group_by()
 ``` unique_species <- starwars %>% 
      select(species) %>%
     distinct() %>%
-     nrow() ```
+     nrow() 
 
 ## 5. Найти самого высокого персонажа.<br   />
 ``` tallest_character <- starwars %>% 
-     filter(height == max(height, na.rm = TRUE))  ```
+     filter(height == max(height, na.rm = TRUE))  
 
 ## 6. Найти всех персонажей ниже 170 <br   />
 ``` short_characters <- starwars %>% 
-    filter(height < 170) ```
+    filter(height < 170) 
 
 ## 7. Подсчитать ИМТ (индекс массы тела) для всех персонажей.<br   />
 ``` starwars <- starwars %>%
-   mutate(BMI = mass / (height/100)^2)  ```
+   mutate(BMI = mass / (height/100)^2)  
 
 ## 8. Найти 10 самых “вытянутых” персонажей. “Вытянутость” оценить по отношению 
 массы (mass) к росту (height) персонажей.<br   />
 ``` elongation <- starwars %>% 
      mutate(elongation = mass / height) %>% 
     arrange(desc(elongation)) %>% 
-    slice_head(n = 10)  ```
+    slice_head(n = 10)  
 
 ## 9. Найти средний возраст персонажей каждой расы вселенной Звездных войн.<br   />
 ``` starwars %>% filter(!is.na(species) & !is.na(birth_year)) %>% group_by(species) %>% summarise(average_age = mean(birth_year, na.rm = TRUE)) ```
@@ -54,13 +54,13 @@ dplyr – функции select(), filter(), mutate(), arrange(), group_by()
 ``` most_common_eye_color <- starwars %>% 
    count(eye_color) %>% 
      arrange(desc(n)) %>% 
-     slice_head(n = 1) ```
+     slice_head(n = 1) 
 
 ## 11. Подсчитать среднюю длину имени в каждой расе вселенной Звездных войн.<br   />
 ``` average_name_length_by_species <- starwars %>% 
     mutate(name_length = nchar(name)) %>% 
     group_by(species) %>% 
     summarise(average_name_length = mean(name_length, na.rm = TRUE)) 
-> print(average_name_length_by_species) ``` 
+ 
 ## Оценка результата
 ## Вывод
