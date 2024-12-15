@@ -19,12 +19,12 @@ dplyr – функции select(), filter(), mutate(), arrange(), group_by()
 ```  n_cols <- starwars %>% ncol() ```
 
 ## 3. Как просмотреть примерный вид датафрейма?<br   />
-``` head(starwars)```
+``` head(starwars) ```
 
 ## 4. Сколько уникальных рас персонажей (species) представлено в данных?<br   />
-``` unique_species <- starwars %>% ```
-     select(species) %>% ```
-    distinct() %>% ```
+``` unique_species <- starwars %>% 
+     select(species) %>%
+    distinct() %>%
      nrow() ```
 
 ## 5. Найти самого высокого персонажа.<br   />
