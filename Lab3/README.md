@@ -14,7 +14,7 @@ dplyr – функции select(), filter(), mutate(), arrange(), group_by()
 1.Установить библиотеки. <br   />
 ```
 2.Загрузить данные.  <br   />
-```
+``` install.packages("nycflights13") ```
 3.Ответить на вопросы. <br   />
 3.1. Сколько встроенных в пакет nycflights13 датафреймов? <br   />
 ```
