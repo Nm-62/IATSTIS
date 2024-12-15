@@ -25,7 +25,7 @@ dplyr – функции select(), filter(), mutate(), arrange(), group_by()
 ``` unique_species <- starwars %>% 
      select(species) %>%
     distinct() %>%
-     nrow() 
+     nrow() ````
 
 # 5. Найти самого высокого персонажа.<br   />
 ``` tallest_character <- starwars %>% 
