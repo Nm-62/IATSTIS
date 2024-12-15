@@ -13,7 +13,7 @@ dplyr – функции select(), filter(), mutate(), arrange(), group_by()
 
 ## Шаги
 1. Сколько строк в датафрейме?<br   />
-```n_rows <- starwars %>% nrow() ```
+``` n_rows <- starwars %>% nrow() ```
 
 2. Сколько столбцов в датафрейме?<br   />
 ```  n_cols <- starwars %>% ncol() ```
