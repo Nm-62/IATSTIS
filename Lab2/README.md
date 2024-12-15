@@ -22,10 +22,10 @@ dplyr – функции select(), filter(), mutate(), arrange(), group_by()
 ``` head(starwars)```
 
 4. Сколько уникальных рас персонажей (species) представлено в данных?<br   />
-``` unique_species <- starwars %>% 
-     select(species) %>% 
-    distinct() %>% 
-     nrow() ```
+``` unique_species <- starwars %>% ```
+```     select(species) %>% ```
+```    distinct() %>% ```
+```     nrow() ```
 
 5. Найти самого высокого персонажа.<br   />
 ``` tallest_character <- starwars %>% 
