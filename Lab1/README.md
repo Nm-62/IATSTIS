@@ -53,15 +53,24 @@ Numbers)
 basics of programming in R
 ![image](https://github.com/user-attachments/assets/3b06a1b5-832e-43d7-bfaa-4daeef544d6a)
 
-7. Запустить подкурсы и выполнить:
+6. Запустить подкурсы и выполнить:
 базовые структурные блоки (Basic Building
 Blocks)
+
 рабочие пространства и файлы (Workspace and
 Files)
 последовательности чисел (Sequences of
 Numbers)
 векторы (Vectors)
 пропущенные значения (Missing Values)
-
+6.1 Выполнение  Basic Building
+Blocks
+6.2 Выполнение  Sequences of
+Numbers
+6.3 Выполнение   Missing Values
 ## Оценка результата
+Был установлен R studio 
+Были пройдены подкурсы Basic Building
+Blocks, Sequences of
+Numbers, Missing Values
 ## Вывод
