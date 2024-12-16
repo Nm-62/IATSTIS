@@ -107,6 +107,17 @@ Numbers  <br />
      rep(c(0, 1, 2), each = 10)
 ```
 6.3 Выполнение   Missing Values  <br />
+``` x <- c(44, NA, 5, NA)
+    x * 3
+    y <- rnorm(100)
+    y[y < 0] <- NA
+    my_na <- is.na(y)
+    my_na
+    y == NA
+    sum(my_na)
+    TRUE
+    0/0
+    Inf - Inf
 ```
 ## Оценка результата
 Был установлен R studio 
