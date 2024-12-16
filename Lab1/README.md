@@ -62,7 +62,7 @@ Files)
 последовательности чисел (Sequences of
 Numbers)
 векторы (Vectors)
-пропущенные значения (Missing Values)
+пропущенные значения (Missing Values) <br />
 6.1 Выполнение  Basic Building
 Blocks <br />
 6.2 Выполнение  Sequences of
