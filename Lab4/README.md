@@ -21,7 +21,7 @@ Query
   3.3. Определите суммарный объем входящего трафика <br>
 4. Сделать выводы о проделанной работе.
 ## Шаги
-1. Проверить доступность данных в Yandex Object Storage
+1. Проверить доступность данных в Yandex Object Storage  <br>
      ![image](https://github.com/user-attachments/assets/0cbc3065-9685-43c6-983e-13ade7614f00)
 
    
