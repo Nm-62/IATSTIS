@@ -64,13 +64,18 @@ Numbers)
 векторы (Vectors)
 пропущенные значения (Missing Values)
 6.1 Выполнение  Basic Building
-Blocks
+Blocks <br />
 6.2 Выполнение  Sequences of
-Numbers
-6.3 Выполнение   Missing Values
+Numbers  <br />
+6.3 Выполнение   Missing Values  <br />
 ## Оценка результата
 Был установлен R studio 
 Были пройдены подкурсы Basic Building
 Blocks, Sequences of
 Numbers, Missing Values
 ## Вывод
+Были развиты практические навыки использования языка программирования R для
+обработки данных
+Были развиты навыки работы в Rstudio IDE:
+установка пакетов
+Были закреплены знания базовых типов данных языка R и простейших операций с ними
