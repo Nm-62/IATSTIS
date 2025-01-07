@@ -1,3 +1,10 @@
+---
+ title: "Основы обработки данных с помощью R и Dplyr"
+ author: "mf-mail@yandex.ru"
+ format: 
+   md:
+     output-file: README.md
+---
 1.Загрузить данные.  <br   />
 ``` install.packages("nycflights13") ```  <br   />
 2.Ответить на вопросы. <br   />
