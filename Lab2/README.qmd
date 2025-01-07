@@ -1,3 +1,11 @@
+---
+ title: "Основы обработки данных с помощью R и Dplyr"
+ author: "mf-maill@yandex.ru"
+ format: 
+   md:
+     output-file: README.md
+---
+
 # Основы обработки данных с помощью R и Dplyr
 mf-maill@yandex.ru
 ## Цель
